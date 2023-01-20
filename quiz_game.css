@@ -1,0 +1,21 @@
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+body{
+	background: rgb(198, 78, 3, 0.895);
+	text-align: center;
+}
+
+#send{
+    height: 30px;
+    background-color: green;
+    font-size: 20;
+    color: white;
+    border-radius: 50px;
+}

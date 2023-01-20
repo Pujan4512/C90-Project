@@ -1,0 +1,17 @@
+body{
+	background: rgb(198, 78, 3, 0.895);
+	text-align: center;
+}
+.login_div1 , .login_div2{
+	background: rgb(81, 99, 185);
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+.header{
+    color: gray;
+}
+#player1_name_input, #player2_name_input{
+    background-color: yellow;
+    color: blueviolet;
+}
